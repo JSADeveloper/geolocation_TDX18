@@ -1,3 +1,5 @@
+<!-- Just testing commit -->
+
 <aura:component implements="force:appHostable">
   <div>
     <div>AccountMap goes here</div>
